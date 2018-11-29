@@ -7,18 +7,18 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum) | c | [c++](./src/cpp/0001-twoSum.cpp) |python|go|rust|Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | c| [c++](./src/cpp/0002-addTwoNumbers.cpp) |python|go|rust|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | [c++](./src/cpp/0003-lengthOfLongestSubstring.cpp) |python|||Medium|
-|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  c | c++ |python|||Hard|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  c | c++ |python|||Medium|
-|0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++]() |python|||Medium|
-|0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++]() |python|||Easy|
-|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |  c | c++ |python|||Medium|
-|0009|[Palindrome Number](https://leetcode.com/problems/split-array-largest-sum/) | c | [c++]() |python|||Easy|
-|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++]() |python|||Hard|
-|0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++]() |python|||Medium|
-|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
+|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | c | c++ |python|||Hard|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | c | c++ |python|||Medium|
+|0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | c++ | python |||Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | c++ | python |||Easy|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | c | c++ |python|||Medium|
+|0009|[Palindrome Number](https://leetcode.com/problems/split-array-largest-sum/) | c | c++ |python|||Easy|
+|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | c++ |python|||Hard|
+|0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | c++ |python|||Medium|
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | c++ |python|||Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++]() |python|||Easy|
-|0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./src/0015-3Sum/0015.cpp) |[python](./src/0015-3Sum/0015.py)|||Medium|
-|0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./src/0016-3Sum-Closest/0016.cpp) |[python](./src/0016-3Sum-Closest/0016.py)|||Medium|
+|0015|[3Sum](https://leetcode.com/problems/3sum/) | c | c++ |python |||Medium|
+|0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./src/0016-3Sum-Closest/0016.cpp) |python|||Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | c | [c++](./src/0017-Letter-Combinations-of-a-Phone-Number/0017.cpp) |[python](./src/0017-Letter-Combinations-of-a-Phone-Number/0017.py)|||Medium|   
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./src/0018-4Sum/0018.cpp) |[python](./src/0018-4Sum/0018.py)|||Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./src/0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./src/0019-Remove-Nth-Node-From-End-of-List/0019.py)|||Medium|
