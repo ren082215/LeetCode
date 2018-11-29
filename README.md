@@ -5,8 +5,8 @@
 | # | Title | c | c++ | python | go | rust | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum) | c | [c++](./src/cpp/0001-twoSum.cpp) |python|go|rust|Easy|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | c| [c++](./src/cpp/0002-addTwoNumbers.cpp) |python|go|[rust]()|Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | c++ |python|||Medium|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | c| [c++](./src/cpp/0002-addTwoNumbers.cpp) |python|go|rust|Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | [c++](./src/cpp/0003-lengthOfLongestSubstring.cpp) |python|||Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  c | c++ |python|||Hard|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  c | c++ |python|||Medium|
 |0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++]() |python|||Medium|
