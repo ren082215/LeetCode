@@ -4,14 +4,14 @@
 
 | # | Title | c | c++ | python | go | rust | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum) | [c] | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python]|[go]|rust|Easy|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c]| [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python]|[go]|[rust]()|Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | [c++] |[python]|||Medium|
-|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  c | [c++] |[python]|||Hard|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  c | [c++] |[python]|||Medium|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum) | c | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python]|[go]|rust|Easy|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | c| [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python]|[go]|[rust]()|Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | c++ |[python]|||Medium|
+|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  c | c++ |python|||Hard|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  c | c++ |python|||Medium|
 |0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++]() |python|||Medium|
 |0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++]() |python|||Easy|
-|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |  c | [c++] |[python]|||Medium|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |  c | c++ |[python]|||Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/split-array-largest-sum/) | c | [c++]() |python|||Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++]() |python|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++] |[python]|||Medium|
