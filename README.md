@@ -20,7 +20,7 @@
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | c | [c++](./src/cpp/0014-longestCommonPrefix.cpp) |python|||Easy|
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./src/cpp/0015-3Sum.cpp) |python |||Medium|
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./src/cpp/3SumClosest.cpp) |python|||Medium|
-|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | c | [c++](./src/cpp/0017-letterCombinationsOfAPhoneNumber.cpp) |python)|||Medium|   
+|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | c | [c++](./src/cpp/0017-letterCombinationsOfAPhoneNumber.cpp) |python|||Medium|   
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./src/cpp/0018-4Sum/0018.cpp) | python |||Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./src/cpp/0019-removeNthNodeFromEndOfList.cpp) |python|||Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./src/0020-Valid-Parentheses/0020.cpp) |python|||Easy|
@@ -29,7 +29,6 @@
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./src/cpp/0023-mergeKSortedLists.cpp) |python|||Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/cpp/0024-swapNodesInPairs.cpp) |python|||Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./src/cpp/0025-reverseNodesInKGroup.cpp) |python|||Hard|
-
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/cpp/0026-removeDuplicatesFromSortedArray.cpp) |python|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/cpp/0027-removeElement.cpp) |python|||Easy|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./src/cpp/0028-implementStrStr.cpp) |python|||Easy|
