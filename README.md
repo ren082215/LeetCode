@@ -93,7 +93,7 @@
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/) | c | [c++](./src/0091-Decode-Ways/0091.cpp) |[python](./src/0091-Decode-Ways/0091.py)|||Medium|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./src/0092-Reverse-Linked-List-II/0092.cpp) |[python](./src/0092-Reverse-Linked-List-II/0092.py)|||Medium|
 |0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | c | [c++](./src/0093-Restore-IP-Addresses/0093.cpp) |[python](./src/0093-Restore-IP-Addresses/0093.py)|||Medium|
-|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./src/0094-Binary-Tree-Inorder-Traversal/0094.cpp) |[python](./src/0094-Binary-Tree-Inorder-Traversal/0094.py)|||Medium|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./src/0094-Binary-Tree-Inorder-Traversal/0094.cpp) |python|||Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./src/0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./src/0098-Validate-Binary-Search-Tree/0098.py)|||Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./src/0100-Same-Tree/0100.cpp) |[python](./src/0100-Same-Tree/0100.py)|||Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | c | [c++](./src/0102-Binary-Tree-Level-Order-Traversal/0102.cpp) |[python](./src/0102-Binary-Tree-Level-Order-Traversal/0102.py)|||Medium|
