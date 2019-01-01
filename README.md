@@ -84,9 +84,9 @@
 |0078|[Subsets](https://leetcode.com/problems/subsets/) | c | [c++](./src/cpp/0078-subsets.cpp) |python|||Medium|
 |0079|[Word Search](https://leetcode.com/problems/word-search/) | c | [c++](./src/cpp/0079-wordSearch.cpp) |python|||Medium|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++](./src/cpp/0080-removeDuplicatesFromSortedArraysII.cpp) |python|||Medium|
-|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | c | [c++](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py) |python|||Medium|
-|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.cpp) |[python](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.py)|||Medium|
-|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./src/0083-Remove-Duplicates-from-Sorted-List/0083.py)|||Easy|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | c | [c++](./src/cpp/0081-searchInRotatedSortedArrayII.cpp) |python|||Medium|
+|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./src/cpp/0082-removeDuplicatesFromSortedListII.cpp) |python|||Medium|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/cpp/0083-removeDuplicatesFromSortedList.cpp) |python|||Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./src/0086-Partition-List/0086.cpp) |[python](./src/0086-Partition-List/0086.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./src/0088-Merge-Sorted-Array/0088.cpp) |[python](./src/0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/) | c | [c++](./src/0090-Subsets-II/0090.cpp) |[python](./src/0090-Subsets-II/0090.py)|||Medium|
